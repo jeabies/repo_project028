@@ -7,6 +7,8 @@ Student ID : 69219010028
 -Draw
 -Eat
 
-# crocodile
+# favorite animal
 
-crocodile
+-crocodile 
+-spider
+
