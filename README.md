@@ -3,12 +3,12 @@ Name : Wongsatorn prabpre
 Student ID : 69219010028
 
 # My Skills
--Programmer
--Draw
--Eat
+- Programmer
+- Draw
+- Eat
 
 # favorite animal
 
--crocodile 
--spider
+- crocodile 
+- spider
 
